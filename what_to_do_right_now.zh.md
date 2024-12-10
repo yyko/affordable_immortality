@@ -5,7 +5,7 @@
 - 支持去中心化的互联网，运行自己的IPFS（[星际文件系统](https://zh.wikipedia.org/wiki/%E6%98%9F%E9%99%85%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F)）节点。  
 - 解读你自己的DNA编码。  
 - 向世界卫生组织（WHO）呼吁，将衰老认定为一种疾病。  
-- 学习如何使用GitHub，为项目文档提交拉取请求（pull request）。  
+- 学习如何使用GitHub，为项目文档提交拉取请求（[pull request](https://github.com/yyko/affordable_immortality)）。  
 - 决定将自己的未来与科学、医学或其他你认为可以帮助实现这一目标的领域联系起来。  
 - 创建一种工具（视频、文章、书籍、课程等）来推广STEM（科学、技术、工程和数学）。  
 - 学习、改进并帮助他人掌握一种全球通用语言（参见“巴别塔”部分）。  
