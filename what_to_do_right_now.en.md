@@ -5,7 +5,7 @@ What can be done right now as part of the "Affordable Immortality" movement:
 - Support a decentralized internet by launching your own node in the IPFS ([Interplanetary File System](https://en.wikipedia.org/wiki/InterPlanetary_File_System))
 - Decode your own DNA.  
 - Write an appeal to the WHO advocating for the recognition of aging as a disease.  
-- Learn how to work with GitHub to contribute pull requests to the project's documentation.  
+- Learn how to work with GitHub to contribute pull requests to the [project's documentation](https://github.com/yyko/affordable_immortality).  
 - Decide to connect your future career with science, medicine, or another field that, in your opinion, could help achieve this goal.  
 - Create a tool (video, article, book, course, etc.) to popularize STEM (science, technology, engineering, and mathematics).  
 - Learn, improve, and help others master a universal language for humanity (see the "Tower of Babel" section).  
