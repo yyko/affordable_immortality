@@ -1,0 +1,5 @@
+Many have probably heard of the Sapir-Whorf hypothesis. A science fiction film, *Arrival*, was even made based on this hypothesis. The idea behind it is that language influences our perception of the world and our thought processes. In other words, by learning a new language, we gain the ability to think differently and discover unexpected solutions to problems that might be impossible to find within the paradigm of our native language.  
+
+And although it remains just a hypothesis, it’s worth testing in practice. For a greater effect, one should choose a language that is significantly different from natural human languages—just like in *Arrival*. Therefore, it is best to turn to constructed languages, among which the most outstanding in terms of originality is [Ithkuil](https://www.ithkuil.net/) or its dialect, [Ilaksh](https://ithkuil.place/mirror/2004-en/Ilaksh_Intro.html).  
+
+We hope that among the participants of this movement, there will be bold individuals who can master this language to such a degree that it radically transforms their thinking, helping them discover fresh and original solutions to current challenges on the path to immortality.
