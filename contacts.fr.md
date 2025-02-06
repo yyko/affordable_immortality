@@ -1,0 +1,2 @@
+Si vous avez des idées ou des suggestions concernant le développement du projet, n’hésitez pas à écrire à yyk@affordableimmortality.com.  
+Si vous remarquez des inexactitudes dans la traduction des articles vers votre langue maternelle, vous pouvez également contacter l’adresse mentionnée ci-dessus ou soumettre une pull request dans le [répertoire du projet](https://github.com/yyko/affordable_immortality).
